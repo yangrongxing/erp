@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #67c23a;
+      }
+    </style>
+  </defs>
+  <g id="tree-bus-on" transform="translate(3 3)">
+    <path id="路径_1270" data-name="路径 1270" class="cls-1" d="M0,0H22V22H0Z" transform="translate(-3 -3)"/>
+    <path id="路径_1271" data-name="路径 1271" class="cls-2" d="M12,14.333H5.333V15a.667.667,0,0,1-.667.667H3.333A.667.667,0,0,1,2.667,15V9H2V6.333h.667v-2A1.333,1.333,0,0,1,4,3h9.333a1.333,1.333,0,0,1,1.333,1.333v2h.667V9h-.667v6a.667.667,0,0,1-.667.667H12.667A.667.667,0,0,1,12,15Zm-8-10V9h9.333V4.333ZM5.667,13a1,1,0,1,0-1-1A1,1,0,0,0,5.667,13Zm6,0a1,1,0,1,0-1-1A1,1,0,0,0,11.667,13Z" transform="translate(-0.667 -1)"/>
+  </g>
+</svg>
