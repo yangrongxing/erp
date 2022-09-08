@@ -1,0 +1,15 @@
+<svg id="qingkuang" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #1885fc;
+      }
+    </style>
+  </defs>
+  <path id="路径_1779" data-name="路径 1779" class="cls-1" d="M0,0H16V16H0Z"/>
+  <path id="路径_1780" data-name="路径 1780" class="cls-2" d="M8.667,15.333a6.667,6.667,0,1,1,6.667-6.667A6.667,6.667,0,0,1,8.667,15.333ZM8,10.667V12H9.333V10.667Zm1.333-1.1A2.334,2.334,0,1,0,6.378,6.876l1.308.262a1,1,0,1,1,.981,1.2A.667.667,0,0,0,8,9v1H9.333Z" transform="translate(-0.667 -0.667)"/>
+</svg>
